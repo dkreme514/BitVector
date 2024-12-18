@@ -1,0 +1,3 @@
+C:/COP3330/bitvector/cmake-build-debug/CMakeFiles/bitvector.dir
+C:/COP3330/bitvector/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/COP3330/bitvector/cmake-build-debug/CMakeFiles/rebuild_cache.dir
